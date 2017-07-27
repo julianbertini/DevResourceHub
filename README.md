@@ -12,3 +12,7 @@ The rules are few and simple:
 
 - Organize by language, framework, and subject area
 - Organize by solution or task, such as authentication, or routing
+
+### Example Sample
+
+![sampleOrg](assets/images/sampleOrg.png)
